@@ -1,0 +1,124 @@
+const students = [{
+  id: "717749073-6",
+  firstName: "Daryl",
+  lastName: "Kliemchen",
+  email: "dkliemchen0@sciencedirect.com",
+  gender: "Genderqueer"
+}, {
+  id: "739624043-3",
+  firstName: "Hadleigh",
+  lastName: "Maddicks",
+  email: "hmaddicks1@amazonaws.com",
+  gender: "Male"
+}, {
+  id: "370991905-3",
+  firstName: "Regina",
+  lastName: "Berryman",
+  email: "rberryman2@newsvine.com",
+  gender: "Non-binary"
+}, {
+  id: "419185178-0",
+  firstName: "Sandra",
+  lastName: "Whilder",
+  email: "swhilder3@nps.gov",
+  gender: "Bigender"
+}, {
+  id: "519655939-6",
+  firstName: "Rurik",
+  lastName: "Braycotton",
+  email: "rbraycotton4@chronoengine.com",
+  gender: "Male"
+}, {
+  id: "782919748-2",
+  firstName: "Dyana",
+  lastName: "Lindberg",
+  email: "dlindberg5@reverbnation.com",
+  gender: "Female"
+}, {
+  id: "956636815-1",
+  firstName: "Shirlene",
+  lastName: "Giacomuzzi",
+  email: "sgiacomuzzi6@buzzfeed.com",
+  gender: "Female"
+}, {
+  id: "455538610-8",
+  firstName: "Stirling",
+  lastName: "McColl",
+  email: "smccoll7@google.co.jp",
+  gender: "Male"
+}, {
+  id: "519771815-3",
+  firstName: "Barny",
+  lastName: "Spawell",
+  email: "bspawell8@wikia.com",
+  gender: "Male"
+}, {
+  id: "379927054-X",
+  firstName: "Teresina",
+  lastName: "Choldcroft",
+  email: "tcholdcroft9@edublogs.org",
+  gender: "Female"
+}, {
+  id: "627904525-0",
+  firstName: "Ardenia",
+  lastName: "Gaishson",
+  email: "agaishsona@tinyurl.com",
+  gender: "Female"
+}, {
+  id: "495080051-5",
+  firstName: "Rebeka",
+  lastName: "Pollard",
+  email: "rpollardb@cargocollective.com",
+  gender: "Female"
+}, {
+  id: "053639680-9",
+  firstName: "Reed",
+  lastName: "Schruur",
+  email: "rschruurc@creativecommons.org",
+  gender: "Male"
+}, {
+  id: "702546343-4",
+  firstName: "Jacenta",
+  lastName: "Padkin",
+  email: "jpadkind@twitter.com",
+  gender: "Female"
+}, {
+  id: "128392253-3",
+  firstName: "Fan",
+  lastName: "Northam",
+  email: "fnorthame@amazonaws.com",
+  gender: "Female"
+}, {
+  id: "612988762-0",
+  firstName: "Amandi",
+  lastName: "Fleetwood",
+  email: "afleetwoodf@etsy.com",
+  gender: "Female"
+}, {
+  id: "536576718-7",
+  firstName: "Irwin",
+  lastName: "Reeves",
+  email: "ireevesg@hao123.com",
+  gender: "Male"
+}, {
+  id: "948674122-0",
+  firstName: "Sande",
+  lastName: "Hedin",
+  email: "shedinh@friendfeed.com",
+  gender: "Female"
+}, {
+  id: "722294759-0",
+  firstName: "Garvy",
+  lastName: "Meatcher",
+  email: "gmeatcheri@psu.edu",
+  gender: "Male"
+}, {
+  id: "663590070-5",
+  firstName: "Herschel",
+  lastName: "Stivens",
+  email: "hstivensj@un.org",
+  gender: "Male"
+}]
+
+
+module.exports = { students }

@@ -1,0 +1,17 @@
+{
+  "name": "node-js-project",
+  "version": "1.0.0",
+  "description": "This is a simple node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Dev KJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "flickity": "^3.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
