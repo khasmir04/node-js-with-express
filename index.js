@@ -13,3 +13,5 @@ const PORT = 3030
 app.listen(PORT, function () {
   console.log(`Server's now running on port ${PORT}`);
 })
+
+module.exports = app;
